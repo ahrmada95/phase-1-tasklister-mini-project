@@ -11,8 +11,13 @@ body {
 }
 
 button {
-  font-size: 7px;
+  font-size: 10 px;
 }
+
+#sort button {
+  font-size: 20px
+}
+
 
 #main-content {
   position: relative;
@@ -35,3 +40,5 @@ button {
   border-radius: 5px;
   box-shadow: 2px 5px 5px #333;
 }
+
+
