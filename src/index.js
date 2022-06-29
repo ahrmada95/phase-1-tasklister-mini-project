@@ -6,5 +6,5 @@ document.addEventListener("DOMContentLoaded", () => {
   let sort = document.getElementById("sort")
 
   form.addEventListener('submit', function(event){
-
-  });
+  })
+})
