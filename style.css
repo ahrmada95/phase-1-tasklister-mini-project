@@ -11,11 +11,15 @@ body {
 }
 
 button {
-  font-size: 10 px;
+  font-size: 10px;
 }
 
 #sort button {
   font-size: 20px
+}
+
+#edit button {
+  font-size: 5px;
 }
 
 
